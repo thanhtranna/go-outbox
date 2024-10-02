@@ -1,1 +1,1 @@
-# go-outbox
+# Outbox Implementation in Go
